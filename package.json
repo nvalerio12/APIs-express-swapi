@@ -1,0 +1,27 @@
+{
+  "name": "APIs-express-swapi",
+  "version": "1.0.0",
+  "description": "Express with APIs SWAPI / OMDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvalerio12/APIs-express-swapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvalerio12/APIs-express-swapi/issues"
+  },
+  "homepage": "https://github.com/nvalerio12/APIs-express-swapi#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
